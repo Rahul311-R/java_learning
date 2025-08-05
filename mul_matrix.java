@@ -51,7 +51,7 @@ public class mul_matrix {
         }
 
 
-        System.out.println("the final multiple matrix:");//print matrix
+        System.out.println("the final multiple matrix:");
         for(int i = 0;i<r1;i++){
             for(int j = 0;j<c1;j++){
                 System.out.print(mul_mat[i][j]+" ");
