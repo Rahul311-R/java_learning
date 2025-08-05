@@ -22,18 +22,18 @@ public class mul_matrix {
 
        int[][] mat1 = new int[r1][c1];
        int[][] mat2 = new int[r2][c2];
-       int[][] mul_mat = new int[r1][c2];
+       int[][] mul_mat = new int[r1][c2];//final_matrix
 
 
 
-        System.out.print("Enter "+a+" elements for matrix 1:");
+        System.out.print("Enter "+a+" elements for matrix 1:");//input for matrix 1
         for(int i = 0;i<r1;i++){
             for(int j = 0;j<c1;j++){
                 mat1[i][j]=s.nextInt();
             }
         }
 
-        System.out.print("Enter "+b+" elements for matrix 2:");
+        System.out.print("Enter "+b+" elements for matrix 2:");//input for matrix 2
         for(int i = 0;i<r1;i++){
             for(int j = 0;j<c1;j++){
                 mat2[i][j]=s.nextInt();
@@ -45,13 +45,13 @@ public class mul_matrix {
             for(int j = 0;j<c1;j++){
                 mul_mat[i][j]=0;
                 for(int k= 0;k<c1;k++){
-                    mul_mat[i][j] += mat1[i][k]*mat2[k][j];
+                    mul_mat[i][j] += mat1[i][k]*mat2[k][j];//mul occur
                 }
             }
         }
 
 
-        System.out.println("the final multiple matrix:");
+        System.out.println("the final multiple matrix:");//print matrix
         for(int i = 0;i<r1;i++){
             for(int j = 0;j<c1;j++){
                 System.out.print(mul_mat[i][j]+" ");
