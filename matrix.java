@@ -10,6 +10,8 @@ public class matrix {
         int m = s.nextInt();
 
         int[][] mat = new int[n][m];
+        int a = n*m;
+        System.out.print("Enter "+a+" elements:");
 
         for(int i =0;i<n;i++){
             for(int j =0 ;j<m;j++){
