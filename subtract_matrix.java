@@ -22,6 +22,7 @@ public class subtract_matrix {
         int[][] mat2 = new int[r2][c2];
         int[][] sub = new int[r1][c2];
 
+        //mat1 input
         System.out.print("Enter "+a+" elements for matrix 1:");
         for(int i = 0;i<r1;i++){
             for(int j = 0;j<c1;j++){
@@ -29,6 +30,7 @@ public class subtract_matrix {
             }
         }
 
+        //mat2 input
         System.out.print("Enter "+b+" elements for matrix 2:");
         for(int i = 0;i<r2;i++){
             for(int j = 0;j<c2;j++){
@@ -36,13 +38,14 @@ public class subtract_matrix {
             }
         }
 
-
+        //real process
         for(int i = 0;i<r1;i++){
             for(int j = 0;j<c2;j++){
                 sub[i][j] = mat1[i][j]-mat2[i][j];
             }
         }
 
+        //final matrix result
         System.out.println("the final matrix:");
         for(int[] row:sub){
             for(int el:row){
