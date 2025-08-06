@@ -15,7 +15,7 @@ public class low_triangle_mat {
         System.out.print("Enter "+a+" elements for the matrix:");
         for(int i =0;i<n;i++){
             for(int j= 0;j<m;j++){
-                if(i>=j){
+                if(i>=j){//logic
                 mat[i][j]=s.nextInt();}
                 else{
                     mat[i][j]=0;
