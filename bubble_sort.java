@@ -8,7 +8,7 @@ public class bubble_sort {
                     int temp = arr[j];
                     arr[j] = arr[j+1];
                     arr[j+1] = temp;
-                }
+                }//sorting done
             }
         }
         return arr;
@@ -23,7 +23,7 @@ public class bubble_sort {
         for(int i = 0;i<n;i++){
             arr[i]=s.nextInt();
         }
-        bubble(arr,n);
+        bubble(arr,n);//func calling
         for(int a :arr){
             System.out.print(a+" ");
         }
