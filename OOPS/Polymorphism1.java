@@ -11,7 +11,7 @@ class shape{
     }
 }
 
-public class Polymorphism {
+class Polymorphism {
     public static void main(String[] args) {
         shape s = new shape();
         s.area(4);
