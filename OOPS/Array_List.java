@@ -19,6 +19,24 @@ public class Array_List {
 
         System.out.println(sol.size());
 
+        Collections.reverse(sol);
+        System.out.println("Reversed list: " + sol);
+
+
+        if(sol.contains("akash")) {
+            System.out.println("akash is in the list");
+        } else {
+            System.out.println("akash not found");
+        }
+
+        Collections.sort(sol);
+        System.out.println("Sorted list: " + sol);
+
+        sol.clear();
+        System.out.println("List after clear: " + sol);
+
+
+
 
         ArrayList<Integer> numbers = new ArrayList<>();
         numbers.add(10);
