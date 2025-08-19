@@ -5,13 +5,12 @@ public class finaly {
         try {
             int a = 10 / 0;   // This will throw ArithmeticException
         }
-        catch (ArithmeticException e) {
+        catch (ArithmeticException e) {//error
             System.out.println("Error: Division by zero!");
         }
         finally {
             System.out.println("This block always runs!");
         }
-
         System.out.println("Program continues...");
     }
 }
