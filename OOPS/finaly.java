@@ -12,6 +12,9 @@ public class finaly {
             System.out.println("This block always runs!");
         }
 
+
+
+
         System.out.println("Program continues...");
     }
 }
