@@ -11,6 +11,7 @@ public class ArrayList_method {
         list.add("Priya");
         System.out.println("list:"+list);
 
+
         // contains() → check if element exists
         if (list.contains("Akash")) {
             System.out.println("Akash is in the list");
