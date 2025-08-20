@@ -17,7 +17,8 @@ public class Arraylist_input {
             System.out.println(t);
         }
 
-        String[] arr = name.toArray(new String[0]);
+        String[] arr = name.toArray(new String[0]);//arraylist to array
+
         for(String u:arr){
             System.out.print(u+" ");
         }

@@ -10,7 +10,9 @@ public class Array_List {
         sol.add("soda");
 
         System.out.println(sol);//print a list
+
         System.out.println(sol.get(0));//particular element
+
         sol.remove("soda");//remove a element
         System.out.println(sol);
 
@@ -34,9 +36,6 @@ public class Array_List {
 
         sol.clear();
         System.out.println("List after clear: " + sol);
-
-
-
 
         ArrayList<Integer> numbers = new ArrayList<>();
         numbers.add(10);
