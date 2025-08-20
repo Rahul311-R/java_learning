@@ -9,6 +9,7 @@ public class Array_List {
         sol.add("akash");
         sol.add("soda");
 
+
         System.out.println(sol);//print a list
 
         System.out.println(sol.get(0));//particular element
