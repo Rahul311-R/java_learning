@@ -16,6 +16,8 @@ public class prime_number {
                 }
             }
         }
+
+
         if(prim){
             System.out.println("It is prime");
         }else{
