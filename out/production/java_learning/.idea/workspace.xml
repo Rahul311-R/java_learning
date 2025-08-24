@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98a9848b-c202-4e28-831c-2debdc7bbbcd" name="Changes" comment="22/08/2025" />
+    <list default="true" id="98a9848b-c202-4e28-831c-2debdc7bbbcd" name="Changes" comment="22/08/2025">
+      <change afterPath="$PROJECT_DIR$/OOPS/array_convertion.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +47,8 @@
     &quot;Application.LinkedList.executor&quot;: &quot;Run&quot;,
     &quot;Application.LinkedList1.executor&quot;: &quot;Run&quot;,
     &quot;Application.LinkedList_stack.executor&quot;: &quot;Run&quot;,
+    &quot;Application.hashset.executor&quot;: &quot;Run&quot;,
+    &quot;Application.set_array.executor&quot;: &quot;Run&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
@@ -54,7 +58,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;background.image.plus&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="TaskManager">
@@ -97,11 +101,20 @@
       <option name="project" value="LOCAL" />
       <updated>1755685383368</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="22/08/2025">
+      <option name="closed" value="true" />
+      <created>1755859073921</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1755859073921</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="20/08/2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="20/08/2025" />
+    <MESSAGE value="22/08/2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="22/08/2025" />
   </component>
 </project>
