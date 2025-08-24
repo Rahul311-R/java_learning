@@ -11,17 +11,21 @@ public class array_convertion {
         ArrayList<String> list1 = new ArrayList<>(Arrays.asList(arr));
         System.out.println("arrayList="+list1);
 
+
         //arr->hashset
         HashSet<String> list2 = new HashSet<>(Arrays.asList(arr));
         System.out.println("hashset="+list2);
+
 
         //arr->linkedList
         LinkedList<String> list3 = new LinkedList<>(Arrays.asList(arr));
         System.out.println("linkedlist="+list3);
 
+
         //arr->queue
         Queue<String> list4 = new LinkedList<>(Arrays.asList(arr));
         System.out.println("Queue="+list4);
+
 
         //arr->stack
         Stack<String> list5 = new Stack<>();
@@ -30,10 +34,12 @@ public class array_convertion {
         }
         System.out.println("Stack="+list5);
 
+
         //arr->PriorityQueue
         Integer[] arr2 = {16,72,36,54,65,};
         PriorityQueue<Integer> pg = new PriorityQueue<>(Arrays.asList(arr2));
         System.out.println("pg="+pg);
+
 
         //to print without []
         for(String i : list1)
@@ -41,6 +47,7 @@ public class array_convertion {
             System.out.print(i+" ");
         }
         System.out.println();
+
 
         //reverse to arr
         String[] arrFromList = list1.toArray(new String[0]);
