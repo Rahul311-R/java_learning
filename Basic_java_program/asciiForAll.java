@@ -1,11 +1,4 @@
-//public class asciiForAll {
-//    public static void main(String[] args) {
-//        for(char ch='0';ch<='9';ch++){
-//            int A = (int)ch;
-//            System.out.println(ch+" "+A);
-//        }
-//    }
-//}
+
 public class asciiForAll {
     public static void main(String[] args) {
         for (char ch = 48; ch <= 122; ch++) {
