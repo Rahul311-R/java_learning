@@ -4,7 +4,51 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98a9848b-c202-4e28-831c-2debdc7bbbcd" name="Changes" comment="24/08/2025" />
+    <list default="true" id="98a9848b-c202-4e28-831c-2debdc7bbbcd" name="Changes" comment="25/08/2025">
+      <change beforePath="$PROJECT_DIR$/Basic_java_program/Automorphic_Number.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_java_program/Buzz_number.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_java_program/Emirp_Number.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_java_program/Neon_number.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_java_program/Nth_prime_Number.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_java_program/Palindrome_of_num.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_java_program/Selection_Sort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_java_program/Small_of_3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_java_program/Sunny_Number.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_java_program/add_matrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_java_program/asd_arr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_java_program/binary_search.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_java_program/bubble_sort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_java_program/copy_arr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_java_program/desc_arr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_java_program/dulp_arr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_java_program/insertion_sort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_java_program/large_2nd_in_arr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_java_program/large_3rd_in_arr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_java_program/large_in_arr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_java_program/large_of_3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_java_program/linear_search.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_java_program/low_triangle_mat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_java_program/mat_equal_not.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_java_program/matrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_java_program/max_arr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_java_program/mul_matrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_java_program/odd_even_in_arr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_java_program/posi_arr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_java_program/prime_number.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_java_program/random_num.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_java_program/rem_dulp_in_arr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_java_program/rev_arr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_java_program/rev_num.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_java_program/small_2nd_in_arr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_java_program/small_in_arr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_java_program/sort_arr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_java_program/spy_number.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_java_program/subtract_matrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_java_program/sum_nums.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_java_program/sum_of_arr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_java_program/tech_number.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic_java_program/upper_triangle_mat.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,11 +86,15 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Application.Hashmap.executor&quot;: &quot;Run&quot;,
     &quot;Application.LinkedList.executor&quot;: &quot;Run&quot;,
     &quot;Application.LinkedList1.executor&quot;: &quot;Run&quot;,
     &quot;Application.LinkedList_stack.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RecSumArray.executor&quot;: &quot;Run&quot;,
     &quot;Application.array_convertion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.asciiForAll.executor&quot;: &quot;Run&quot;,
     &quot;Application.hashset.executor&quot;: &quot;Run&quot;,
+    &quot;Application.right_angle_tri.executor&quot;: &quot;Run&quot;,
     &quot;Application.set_array.executor&quot;: &quot;Run&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -124,13 +172,30 @@
       <option name="project" value="LOCAL" />
       <updated>1756033855938</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="25/08/2025">
+      <option name="closed" value="true" />
+      <created>1756100659491</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1756100659491</updated>
+    </task>
+    <task id="LOCAL-00009" summary="25/08/2025">
+      <option name="closed" value="true" />
+      <created>1756103993991</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1756103993991</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="20/08/2025" />
     <MESSAGE value="22/08/2025" />
     <MESSAGE value="24/08/2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="24/08/2025" />
+    <MESSAGE value="25/08/2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="25/08/2025" />
   </component>
 </project>
