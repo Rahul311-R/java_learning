@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class insertion_sort {
+public class Insertion_sort {
     static int[] insertion(int[] arr,int n){
         for(int i =1 ; i<n;i++){
             int key = arr[i];

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class selection_sort {
+public class SelectionSort {
 
     static int[] select(int[] arr,int n){
         for(int i = 0;i<n;i++){

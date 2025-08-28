@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class rev_arr {
+public class Reverse_arr {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         int n = s.nextInt();

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class insert_sort {
+public class InsertionSort {
 
     static int[] insert(int[] arr,int n){
         for(int i = 1;i<n;i++) {

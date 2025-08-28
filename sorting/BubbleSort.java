@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Bubble_sort {
+public class BubbleSort {
 
     static int[] bubble(int[] arr,int n){
         for(int i =0;i<n;i++){
